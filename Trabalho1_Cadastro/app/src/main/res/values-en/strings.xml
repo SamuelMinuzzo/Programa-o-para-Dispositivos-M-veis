@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Work registration</string>
+    <string name="descri_o">Description:</string>
+    <string name="valor">Amount:</string>
+    <string name="pagadores">Payers:</string>
+    <string name="cadastrar">Register</string>
+    <string name="digite_a_descri_o">Type description</string>
+    <string name="cadastrar_item">Register Item</string>
+    <string name="cadastrar_pessoa">Register Person</string>
+    <string name="limpar_o_banco">Clear Database</string>
+    <string name="rateio_da_conta">Account Distrubution</string>
+    <string name="cadastrar_p">Register</string>
+    <string name="nome">Name</string>
+</resources>
