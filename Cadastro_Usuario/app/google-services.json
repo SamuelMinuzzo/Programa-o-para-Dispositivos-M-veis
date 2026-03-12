@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "8115068842",
+    "project_id": "cadastrousuario-f166c",
+    "storage_bucket": "cadastrousuario-f166c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8115068842:android:f8832d9577599126ac95d3",
+        "android_client_info": {
+          "package_name": "br.edu.utfpr.cadastro_usuario"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOk4Zuyk6HpjOXpssQc8Dd1u3QmyEEQbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

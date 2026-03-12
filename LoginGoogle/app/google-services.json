@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27586007603",
+    "project_id": "login-6ab66",
+    "storage_bucket": "login-6ab66.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27586007603:android:79a5a516db830ec8b38946",
+        "android_client_info": {
+          "package_name": "br.edu.utfpr.login_google"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCocBwHTCKGQoAc63uhDFAddfylpMmzncE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
